@@ -1,0 +1,2 @@
+# spacktice
+for practicing spack
